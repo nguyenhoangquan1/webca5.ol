@@ -1,0 +1,70 @@
+
+header{
+ width: 980px;
+ height: 200px;
+ background: #0a92e0;
+}
+header img{
+   padding-left: 30px;
+
+}
+nav{
+    width: 980px;
+    background: rgb(1, 49, 63);
+   
+}
+nav.menu  tr{
+ list-style: none;
+ background-color: rgb(255, 255, 255);
+
+ 
+ 
+}
+nav.menu table tr td{
+    float: left;
+    line-height: 200px;
+   padding: 0 15px;
+   margin: 0;
+  font-family:  "Roboto",sans-serif;
+    
+}
+nav.search{
+    line-height: 25px;
+    float: right;
+    padding: 0 15px;
+}
+table.menu  tr td a{
+    color: #fff;
+    font-size: 20px;
+ text-decoration: none;
+}
+table.like tr td a{
+    text-decoration: none;
+    color: rgba(13, 105, 224, 0.986);
+}
+table.likes tr td a{
+    text-decoration: none;
+    color: rgba(13, 105, 224, 0.986);
+}
+table.menu_chid tr td a {
+display: none;
+}.menu tr td a table.menu_chid tr td a{
+
+display: block;
+}
+
+table.name{
+    background: #99CC00;
+}
+nav.cua a{
+
+  text-decoration: none;
+}
+nav.tomcang a{
+
+    text-decoration: none;
+    
+  }
+  p.video.source{
+      autoplay;
+  }
