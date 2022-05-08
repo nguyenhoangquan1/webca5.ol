@@ -65,6 +65,16 @@ nav.tomcang a{
     text-decoration: none;
     
   }
-  p.video.source{
-      autoplay;
-  }
+ table.like tr td  {
+
+border: 1px solid none;
+padding:0 15px;
+   
+ }
+ table.likes tr td  {
+
+    border: 1px solid none;
+    padding:0 15px;
+       
+     }
+ 
